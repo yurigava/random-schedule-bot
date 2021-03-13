@@ -1,0 +1,3 @@
+[submodule "parse-crontab"]
+	path = parse-crontab
+	url = ssh://git@github.com/josiahcarlson/parse-crontab
